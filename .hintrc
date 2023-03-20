@@ -1,0 +1,17 @@
+{
+  "extends": [
+    "development"
+  ],
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not and_ff <= 110"
+  ],
+  "hints": {
+    "axe/name-role-value": "off",
+    "disown-opener": "off",
+    "no-inline-styles": "off",
+    "typescript-config/strict": "off",
+    "typescript-config/consistent-casing": "off"
+  }
+}
