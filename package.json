@@ -9,7 +9,13 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "npm run dev",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+    
+
+
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
